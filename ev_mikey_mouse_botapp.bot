@@ -1,0 +1,24 @@
+{
+    "name": "ev_mikey_mouse_botapp",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "ev_mikey_mouse_botapp",
+            "id": "247aa9b0-90e2-11ec-869d-5f4b625ed070",
+            "appId": "910807fa-afd8-4ad1-bbe5-9f5df356e548",
+            "appPassword": "FR0|qQ6e1)N4|_E7*X5%SvW4C",
+            "endpoint": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "env_mikey",
+            "id": "201"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/ioanacristinagosman/work/udacity_azure_course/code_project_2/ev_mikey_mouse_botapp.bot",
+    "overrides": null
+}

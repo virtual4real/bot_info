@@ -1,0 +1,18 @@
+{
+    "name": "ev2",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "a6f694c0-90de-11ec-9b7e-d7ae121d9b9e",
+            "appId": "1c08ce83-ad08-4a80-b400-6f1c5299edaf",
+            "appPassword": "l@5J|(v!ko3M:o_r*+Q%wp-oV0Tr",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "/Users/ioanacristinagosman/work/udacity_azure_course/code_project_2/ev2.bot",
+    "overrides": null
+}
